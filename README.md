@@ -5,7 +5,7 @@
 <br>
 # ElectronOverlay 🖥
 </h1>
-<p align="center">Simple overlay webview to assist in the development</p>
+<p align="center">Simple overlay webview to assist the development</p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
