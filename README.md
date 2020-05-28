@@ -24,8 +24,8 @@
 - Install yarn and run the cmd
 
 ```
-$ git clone //URL
-$ cd //repoName
+$ git clone https://github.com/robertokbr/ElectronOverlay.git
+$ cd electronoverlay
 $ yarn
 
 ```
